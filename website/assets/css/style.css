@@ -1,3 +1,9 @@
 body{
     background: #ffffff;
 }
+.fondo{
+      background-image: url("https://raw.githubusercontent.com/4GeeksAcademy/collaborative-html-website-latam-pt-42/refs/heads/master/website/assets/img/bg.jpg");
+    background-size: cover;
+    min-height: 90vh;
+}
+  
